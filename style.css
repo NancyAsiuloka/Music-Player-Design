@@ -66,3 +66,7 @@ nav .circle{
     cursor: pointer;
     margin: 40px 0;
 }
+
+#progress::-webkit-slider-thumb{
+    -webkit-appearance: none;
+}
